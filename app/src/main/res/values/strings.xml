@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Map Tracking</string>
+
+    <string name="view_file">View</string>
+    <string name="take_photo">Photo</string>
+    <string name="take_video">Video</string>
+    <string name="play_audio">Play Audio</string>
+
+    <string name="capture_audio">Audio</string>
+    <string name="stop_recording">Stop</string>
+    <string name="play_media">Play Audio</string>
+</resources>
