@@ -40,7 +40,7 @@ public class MainActiviy extends AppCompatActivity {
     String audioSavePath;
     int selectedPosition;
     MediaPlayer mediaPlayer;
-    MediaRecorder mediaRecorder; //Added comment madhu
+    MediaRecorder mediaRecorder;
     @Override
     protected void onCreate(@Nullable Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
